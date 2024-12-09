@@ -3,11 +3,11 @@
 
 // Lista de itens da casa
 const products = [
-    { id: 1, name: "Sofá 3 Lugares", description: "Confortável e estiloso.", price: 1200, image: "https://via.placeholder.com/400x200" },
-    { id: 2, name: "Geladeira Frost Free", description: "Capacidade de 400L.", price: 2500, image: "https://via.placeholder.com/400x200" },
-    { id: 3, name: "Jogo de Panelas", description: "Conjunto de 5 peças antiaderentes.", price: 300, image: "https://via.placeholder.com/400x200" },
-    { id: 4, name: "Cama Queen", description: "Estrutura em madeira maciça.", price: 1500, image: "https://via.placeholder.com/400x200" },
-    { id: 5, name: "Mesa de Jantar", description: "Com 6 cadeiras estofadas.", price: 900, image: "https://via.placeholder.com/400x200" },
+    { id: 1, name: "Sofá 3 Lugares", description: "Confortável e estiloso.", price: 1200, image: "https://i.postimg.cc/GhtDRJ9y/real-estate-6893060-1280-1.jpg" },
+    { id: 2, name: "Geladeira Frost Free", description: "Capacidade de 400L.", price: 2500, image: "https://i.postimg.cc/Pxfx4Tww/fridge-3475996-1280.jpg" },
+    { id: 3, name: "Jogo de Panelas", description: "Conjunto de 5 peças antiaderentes.", price: 300, image: "https://i.postimg.cc/SQTXg2VN/cook-750142-1280.jpg" },
+    { id: 4, name: "Cama Queen", description: "Estrutura em madeira maciça.", price: 1500, image: "https://i.postimg.cc/tCsswqmd/bedroom-5664221-1280.jpg" },
+    { id: 5, name: "Mesa de Jantar", description: "Com 6 cadeiras estofadas.", price: 900, image: "https://i.postimg.cc/PrvqK6P2/living-room-8215136-1280.jpg" },
 ];
 
 // Renderizar os produtos na página
