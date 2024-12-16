@@ -30,7 +30,7 @@ products.forEach(product => {
         <h3>${product.name}</h3>
         <p>${product.description}</p>
         <p><strong>R$ ${product.price.toFixed(2)}</strong></p>
-        <a class="button" href="${product.link}" target="_blank">
+        <a class="btn btn-success w-100" href="${product.link}" target="_blank">
             Contribuir
         </a>
     `;
