@@ -30,7 +30,7 @@ products.forEach(product => {
         <h3>${product.name}</h3>
         <p>${product.description}</p>
         <p><strong>R$ ${product.price.toFixed(2)}</strong></p>
-        <a class="btn btn-success w-100" href="${product.link}" target="_blank">
+        <a class="button" href="https://www.paypal.com/donate?hosted_button_id=EXAMPLE123&amount=${product.price}" target="_blank">
             Contribuir
         </a>
     `;
