@@ -14,6 +14,10 @@ const products = [
     { id: 9, name: "Mesinha de Centro", description: "Design elegante para a sala.", price: 500, image: "https://i.postimg.cc/s2YQmTHt/living-room-8215143-1280.jpg" },
     { id: 10, name: "Smart TV", description: "Alta resolução para momentos de lazer.", price: 1350, image: "https://i.postimg.cc/6q389t6X/tv-627876-1280.jpg" },
     { id: 11, name: "Conjunto Jogo Americano", description: "Estilo e proteção para sua mesa.", price: 250, image: "https://i.postimg.cc/FK5k0Mpy/dinner-table-4926854-1280.jpg" },
+    { id: 12, name: "Faqueiro", description: "Facas de inox.", price: 380, image: "https://i.postimg.cc/R0BqWcCG/nanjing-10297-1280.jpg" },
+    { id: 13, name: "Mesa Lateral", description: "Compacta e prática para sua sala.", price: 620, image: "https://i.postimg.cc/vHKVZg6S/living-room-table-4037281-1280.jpg" },
+    { id: 14, name: "Tapete", description: "Grande e aconchegante.", price: 1900, image: "https://i.postimg.cc/RZcZxN1t/furniture-998265-1280.jpg" },
+    { id: 15, name: "Mesas de Cabeceira", description: "Conjunto de 2 mesas funcionais.", price: 1850, image: "https://i.postimg.cc/Twcbdtrr/in-the-morning-4652076-1280.jpg" },
 ];
 
 // Renderizar os produtos na página
