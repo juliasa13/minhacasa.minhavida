@@ -8,6 +8,7 @@ const products = [
     { id: 3, name: "Jogo de Panelas", description: "Conjunto de 5 peças antiaderentes.", price: 300, image: "https://i.postimg.cc/SQTXg2VN/cook-750142-1280.jpg" },
     { id: 4, name: "Cama Queen", description: "Estrutura em madeira maciça.", price: 1500, image: "https://i.postimg.cc/tCsswqmd/bedroom-5664221-1280.jpg" },
     { id: 5, name: "Mesa de Jantar", description: "Com 6 cadeiras estofadas.", price: 900, image: "https://i.postimg.cc/PrvqK6P2/living-room-8215136-1280.jpg" },
+    { id: 6, name: "Cadeiras", description: "Conjunto de 4 cadeiras confortáveis.", price: 700, image: "https://i.postimg.cc/wM7jC2Fx/breakfast-7045227-1280.jpg" },
 ];
 
 // Renderizar os produtos na página
