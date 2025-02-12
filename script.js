@@ -2,7 +2,7 @@
 
 // Lista de itens da casa
 const products = [
-    { id: 1, name: "Cadeiras", description: "Conjunto de 4 cadeiras confortáveis.", price: 700, image: "https://i.postimg.cc/wM7jC2Fx/breakfast-7045227-1280.jpg", link: "https://mpago.la/15sD4gZ" },
+    { id: 1, name: "Cadeiras", description: "Conjunto de 2 cadeiras.", price: 700, image: "https://i.postimg.cc/wM7jC2Fx/breakfast-7045227-1280.jpg", link: "https://mpago.la/15sD4gZ" },
     { id: 2, name: "Mesa de Jantar", description: "Com 6 cadeiras estofadas.", price: 900, image: "https://i.postimg.cc/PrvqK6P2/living-room-8215136-1280.jpg", link: "https://mpago.la/1RoDpT7" },
     { id: 3, name: "Sofá 3 Lugares", description: "Confortável e estiloso.", price: 1200, image: "https://i.postimg.cc/GhtDRJ9y/real-estate-6893060-1280-1.jpg", link: "https://mpago.la/2nnsbVJ" },
     { id: 4, name: "Máquina de Lavar", description: "Capacidade de 11kg.", price: 2500, image: "https://i.postimg.cc/fRGJmwYR/washing-machine-1994661-1280.png", link: "https://mpago.la/1jM1jRz" },
